@@ -1,2 +1,4 @@
 # Aliexpress-closing-date
-Grreasmonkey script modiy aliexpress web page field awaiting delivery. Convert days till the end to date and create link to google calendar
+
+Greasemonkey script modiy aliexpress.com web page field awaiting delivery. 
+Convert "days till the closing order " end to date and create link to google calendar.
